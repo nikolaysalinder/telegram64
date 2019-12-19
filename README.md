@@ -1,2 +1,2 @@
 # telegram64
-Hucked telegram 64
+telegram 64
